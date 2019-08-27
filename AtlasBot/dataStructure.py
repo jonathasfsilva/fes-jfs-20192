@@ -1,4 +1,4 @@
-from Node import No
+from AtlasBot.Node import No
 
 
 class Estrutura:

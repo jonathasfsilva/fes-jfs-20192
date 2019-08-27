@@ -1,4 +1,4 @@
-from dataStructure import Estrutura
+from AtlasBot.dataStructure import Estrutura
 
 dados = Estrutura()
 dados.carrega()
